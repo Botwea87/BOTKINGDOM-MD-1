@@ -6,7 +6,7 @@ global.prems = [] // Premium user has unlimited limit
 
 global.APIs = { // API Prefix
 
-  // name: 'https://website'
+  // name: 'https://free-rest.herokuapp.com/'
 
   amel: 'https://melcanz.com',
 
