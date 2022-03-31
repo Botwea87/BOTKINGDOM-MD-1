@@ -6,7 +6,7 @@ global.prems = [] // Premium user has unlimited limit
 
 global.APIs = { // API Prefix
 
-  // name: 'https://free-rest.herokuapp.com/'
+  restfre: 'https://free-rest.herokuapp.com/'
 
   amel: 'https://melcanz.com',
 
@@ -54,7 +54,7 @@ global.APIs = { // API Prefix
 
 global.APIKeys = { // APIKey Here
 
-  // 'https://website': 'apikey'
+  // 'https://free-rest.herokuapp.com/': 'Alphabot'
 
   'https://melcanz.com': 'dUtJxxvp',
 
