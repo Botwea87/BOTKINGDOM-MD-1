@@ -1,4 +1,4 @@
-global.owner = ['94742134288'] // Put your number here
+global.owner = ['6281229393997'] // Put your number here
 
 global.mods = [] // Want some help?
 
@@ -84,7 +84,7 @@ global.packname = 'BOT KINGDOM'
 
 global.author = '❤️'
 
-global.wm = 'ＢＯＴ ＫＩＮＧＤＯＭ'
+global.wm = 'ＢＯＴ ＫＩＮＧＤＯＭib'
 
 global.media = 'https://telegra.ph/file/4475cfb321abebedc758d.jpg'
 
